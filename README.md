@@ -1,5 +1,8 @@
-Welcome to my GitHub! It's a work in progress, but I'll be uploading some projects in the near future.
+Welcome to my GitHub! It's a work in progress, but I'll be uploading some projects in the near future. 
 
-My intent is to build a portfolio here of side projects that I have been working on. Most of my time is spent on coursework and my research, but I have a few personal ones I've been working on that showcase my coding abilities. Eventually, when my research becomes published, I'll be able to upload work related to that project (which I'm excited to share!).
+My intent is to build a portfolio here of side projects that showcase my coding abilities. I enjoy using machine learning and statistical modeling to help answer the questions I ask on a daily basis. Among the personal projects I will be adding to my page are:
+- Predicting how many points, rebounds, or assists an NBA player will have in an upcoming game (using web scraping, time series, Bayesian analysis, and Object Oriented Programming)
+- Analyzing sentiments of sentences (with several NLP techniques of increasing sophisication)
+- Facial recognition algorithm building (using a CNN, but also seeing how good I can get with more basic approaches like PCA + KNN)
 
-I'm currently a graduate student and I'm on the hunt for a data science role. I'm skilled in Python, R, SQL, SAS, and C++. I enjoy using machine learning and statistical modeling to derive insights into questions I ask on a daily basis.
+My main coding language is Python. I'm skilled in R, SQL, C++, and SAS as well. Please see my LinkedIn (https://www.linkedin.com/in/camden-neese) for more details about my professional career.
